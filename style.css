@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    padding: 10px;
+    height: 10vh;
+    background-color: blanchedalmond;
+    border-bottom: 1px solid black;
+}
+
+#header h1 {
+    margin-left: 150px;
+}
+
+table {
+    padding: 3px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#aside {
+    vertical-align: top;
+    width: 150px;
+    background-color: lightgrey;
+    border-right: 1px solid black;
+}
+
+.nav-link-wrapper {
+    margin: 15px;
+}
+
+.nav-link-wrapper a {
+    text-decoration: none;
+    color: black;
+}
+
+#content {
+    vertical-align: top;
+    height: 80vh;
+    background-color: goldenrod;
+    padding: 1%;
+}
+
+#info {
+    width: 300px;
+    background-color: greenyellow;
+    border-left: 1px solid black;
+}
+
+#info div {
+    text-align: center;
+    background-color: #80cbc4;
+    margin-top: 15px;
+    padding: 5px;
+
+}
+
+#footer {
+    padding: 10px;
+    height: 10vh;
+    border-top: 1px solid black;
+    background-color: blanchedalmond;
+}
